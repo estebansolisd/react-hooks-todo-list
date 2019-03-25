@@ -1,0 +1,15 @@
+.App{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+    align-items: center;
+}
+
+.todos-group{
+    height: 400px;
+    max-height: 400px;
+    overflow-y: scroll;
+    padding: 1px 38px 1px 19px;
+}
